@@ -4,7 +4,7 @@ from quiz import executar_quiz
 from perguntas import perguntas
 
 def main():
-    """Função principal que inicia o quiz."""
+    # Função principal que inicia o quiz.
     # Chama a função 'executar_quiz' passando as perguntas importadas
     executar_quiz(perguntas)
 
