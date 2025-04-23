@@ -1,5 +1,5 @@
 def executar_quiz(perguntas):
-    """Executa o quiz com as perguntas fornecidas, permitindo que o usuário escolha a dificuldade."""
+    # Executa o quiz com as perguntas fornecidas, permitindo que o usuário escolha a dificuldade.
     print("Seja Bem-Vindo ao nosso quiz de Futebol, sera que você sabe realmente tudo?!")
 
     # Exibe as opções de dificuldade para o usuário escolher
