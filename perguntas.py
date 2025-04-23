@@ -1,6 +1,6 @@
 # Aqui seram as perguntas, conforme o nivel de dificuldade a pessoa escolher.
 perguntas = {
-    #Para a Dificuldade Facil.
+    # Para a Dificuldade Facil.
     "facil": [
         {
             "pergunta": "1) Qual país é conhecido como o 'Rei do Futebol'?",
@@ -53,7 +53,7 @@ perguntas = {
             "resposta": "C) 11"
         }
     ],
-    #Para a Dificuldade Medio.
+    # Para a Dificuldade Medio.
     "medio": [
         {
         "pergunta": "1) Qual jogador detém o recorde de mais gols em uma única edição da Liga dos Campeões da UEFA?",
@@ -106,7 +106,7 @@ perguntas = {
         "resposta": "A) Luiz Felipe Scolari"
     }
     ],
-    #Para a Dificuldade Dificil.
+    # Para a Dificuldade Dificil.
     "dificil": [
        {
         "pergunta": "1) Qual foi o primeiro clube a vencer a Liga dos Campeões da UEFA?",
