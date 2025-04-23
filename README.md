@@ -17,3 +17,5 @@ Para executar o projeto, você precisa ter o Python instalado em sua máquina. I
 "python main.py".
 
 ## Link Do Video
+
+https://youtu.be/ARH2_pdBAbU
