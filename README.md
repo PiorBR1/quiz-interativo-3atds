@@ -13,7 +13,7 @@ Este projeto é um quiz interativo que contém 10 perguntas sobre Futebol. Você
 
 ## Como Executar
 
-Para executar o projeto, você precisa ter o Python instalado em sua máquina. Ir no terminal e usar:
+Para executar o projeto, você precisa ter o Vscode e o Python instalado em sua máquina. No vscode você ira ir no terminal e usar:
 "python main.py".
 
 ## Link Do Video
